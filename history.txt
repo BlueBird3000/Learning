@@ -1,0 +1,45 @@
+    1  git --version
+    2  git --global user.name "Ahmed Felifl"
+    3  git --global user.name "Ahmed Felifl"
+    4  git config --global user.name "Ahmed Felifl"
+    5  git config --global user.email "ahmed.felifl@yahoo.com"
+    6  git configh --list
+    7  git config -- list
+    8  git config --list
+    9  git cofig --list
+   10  git config --list
+   11  history
+   12  history > history.txt
+   13  cat history.txt
+   14  git config user.name
+   15  man git
+   16  man git
+   17  git help
+   18  git man
+   19  man git
+   20  git man git
+   21  history
+   22  pwd
+   23  cd ocuments\Git-project
+   24  cd Documents\Git-project
+   25  pwd
+   26  cd \Users\Ahmed\Documents\Git-project
+   27  pwd
+   28  cd Users
+   29  dir
+   30  exit
+   31  cd downloads
+   32  ls
+   33  cd
+   34  ls
+   35  cd documents
+   36  ls
+   37  cd git_project
+   38  cd Git-project
+   39  git init
+   40  cd .git
+   41  ls
+   42  history
+   43  history > history.txt
+   44  cd ..
+   45  history > history.txt
