@@ -43,3 +43,64 @@
    43  history > history.txt
    44  cd ..
    45  history > history.txt
+   46  ls
+   47  eccho "#wired-brain-recipes" >> README.md
+   48  echo "#wired-brain-recipes" >> README.md
+   49  git add .
+   50  git commit -m "First Commit"
+   51  git remote add origin 
+   52  https://github.com/BlueBird3000/Learning.git
+   53  git remote add origin https://github.com/BlueBird3000/Learning.git
+   54* 
+   55  history
+   56  history > git-commands.txt
+   57  cat git-ommands.txt
+   58  git status
+   59  git status
+   60  git add .
+   61  git status
+   62  git commit
+   63  git status
+   64  git commit -m "second commit"
+   65  git status
+   66  touch vendors.txt
+   67  git status
+   68  git add vendors.txt
+   69  git status
+   70  ls
+   71  touch employees.txt
+   72  ls
+   73  git status
+   74  git add employees.txt
+   75  git status
+   76  git commit 
+   77  git status
+   78  open -a atom employee.txt
+   79  open -a atom employees.txt
+   80  open -a atom employees.txt
+   81  open -a atom employees.txt
+   82  git status
+   83  git add employees.txt
+   84  git status
+   85  open -a atom employees.txt
+   86  git status
+   87  git add employees.txt
+   88  git status
+   89  git status
+   90  history > history.txt
+   91  git status
+   92  git status -s
+   93  git status -short
+   94  git status --short
+   95  git status -s
+   96  touch coffee.txt
+   97  git status -s
+   98  touch coffee2.txt
+   99  git status -s
+  100  git add coffee.txt
+  101  status -s
+  102  git status -s
+  103  git diff
+  104  git diff --stagged
+  105  git diff --staged
+  106  history > history.txt
